@@ -1,0 +1,45 @@
+ .u-section-1 {
+  background-image: url("images/logo.png");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1091px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  font-family: Oswald, sans-serif;
+  line-height: 1;
+  margin: 65px auto 0 -374px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 2.25rem;
+  font-weight: 500;
+  margin: 0 auto 60px -374px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 900px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 689px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 517px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 326px;
+  }
+}
