@@ -1,0 +1,15 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1091px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 60px auto 60px -444px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    font-family: Oswald, sans-serif;
+  }
+}
