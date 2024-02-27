@@ -42253,6 +42253,12 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
+        
+        
+        
+        
+        
+        
         --theme-sheet-width-xl: 1140px;
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
@@ -42375,6 +42381,12 @@ a.u-link.u-text-hover-grey-90:hover {
         {
         margin-top: 20px;
         margin-bottom: 20px;
+        font-size: 1.5rem;
+        font-weight: 500;
+        line-height: 1.8;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        font-family: Oswald,sans-serif;
         }
         ol
         {
@@ -42581,6 +42593,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-nav-1 {
   font-weight: 400;
   font-size: 1.25rem;
+  font-family: Oswald, sans-serif;
 }
 
 .u-header .u-nav-2 {
@@ -42615,10 +42628,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-menu-1 {
     margin-top: 0;
     margin-right: auto;
-  }
-
-  .u-header .u-nav-1 {
-    font-family: Oswald, sans-serif;
   }
 
   .u-header .u-social-icons-1 {
